@@ -77,3 +77,4 @@ This will generate reports that are readable by JUnit and Cobertura.
 Hello WOrld!!
 !
 new line
+new 
